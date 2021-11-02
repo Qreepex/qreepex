@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hey, I'm qreepex! 👋
+
 
 <!--
 **Qreepex/qreepex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/552530299423293441)](https://discord.com/users/552530299423293441)
