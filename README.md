@@ -29,4 +29,4 @@ You can also email me:
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/552530299423293441)](https://discord.com/users/552530299423293441)
 
 ## 📢 Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qreepex)](https://github.com/qreepex)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=qreepex)](https://github.com/qreepex)
