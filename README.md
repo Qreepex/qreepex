@@ -10,9 +10,9 @@ I’m currently working on [EazyAutodelete](https://i.qreepex.xyz) V2 - A bot to
 
 To contact me easily DM me on [Discord](https://discord.com/channels/@me/552530299423293441)
 
-You can also email me:
-**Coding related:** [dev@qreepex.xyz](mailto://dev@qreepex.xyz)<br>
-**Non-Coding related:** [info@qreepex.xyz](mailto://info@qreepex.xyz)
+You can also email me:<br>
+- **Coding related:** [dev@qreepex.xyz](mailto://dev@qreepex.xyz)<br>
+- **Non-Coding related:** [info@qreepex.xyz](mailto://info@qreepex.xyz)
 
 <!--
 - 🔭 I’m currently working on ...
