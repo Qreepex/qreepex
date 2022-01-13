@@ -4,7 +4,7 @@ I'm a teenage developer from germany.
 
 ## 🔭 Current
 
-I’m currently working on [EazyAutodelete](https://i.qreepex.xyz) V2 - A bot to keep all your channels clean and organized.
+I’m currently working on [EazyAutodelete](https://eazyautodelete.xyz) V2 - A bot to keep all your channels clean and organized.
 
 ## 📫 Reach me
 
