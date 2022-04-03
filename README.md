@@ -30,4 +30,4 @@ You can also email me:<br>
 
 ## 📢 Stats
 [![qreepex's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=qreepex&langs_count=10&layout=compact)](https://github.com/qreepex)
-[![qreepex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qreepex&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_border=true)](https://github.com/qreepex)
+[![qreepex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qreepex&count_private=true&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/qreepex)
