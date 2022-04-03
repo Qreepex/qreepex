@@ -29,5 +29,5 @@ You can also email me:<br>
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/552530299423293441)](https://discord.com/users/552530299423293441)
 
 ## 📢 Stats
-[![qreepex's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=qreepex&langs_count=10&layout=compact)](https://github.com/qreepex)
+[![qreepex's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=qreepex&langs_count=10&layout=compact)](https://github.com/qreepex)<br>
 [![qreepex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qreepex&count_private=true&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/qreepex)
