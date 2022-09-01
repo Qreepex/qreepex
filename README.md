@@ -6,7 +6,7 @@ I'm a full-stack developer from Germany.
 [![Skills](https://skillicons.dev/icons?i=ts,nodejs,html,css,js,java,py,express,jquery,bootstrap)](https://github.com/qreepex)
 
 ## Tools & Software
-[![Skills](https://skillicons.dev/icons?i=vscode,docker,mongodb,redis,nginx,discord,github)](https://github.com/qreepex)
+[![Skills](https://skillicons.dev/icons?i=vscode,docker,mongodb,redis,postgres,nginx,cloudflare,discord,github,git)](https://github.com/qreepex)
 
 ## Reach me
 
