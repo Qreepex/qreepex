@@ -3,10 +3,10 @@
 I'm a full-stack developer from Germany.
 
 ## Skills
-[![Skills](https://skillicons.dev/icons?i=ts,nodejs,html,css,js,java,py,express,jquery,bootstrap)](https://github.com/qreepex)
+[![Skills](https://skillicons.dev/icons?i=ts,nodejs,svelte,html,css,sass,js,java,py,express,jquery,tailwind,bootstrap,regex&theme=dark)](https://github.com/qreepex)
 
 ## Tools & Software
-[![Skills](https://skillicons.dev/icons?i=vscode,docker,mongodb,redis,postgres,nginx,cloudflare,discord,github,git)](https://github.com/qreepex)
+[![Skills](https://skillicons.dev/icons?i=vscode,docker,mongodb,redis,postgres,nginx,cloudflare,discord,github,git,postman,workersgrafana,prometheus&theme=dark)](https://github.com/qreepex)
 
 ## Reach me
 
