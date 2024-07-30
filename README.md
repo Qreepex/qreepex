@@ -17,5 +17,5 @@ You can also email me:<br>
 - **Non-Coding related:** [info@qreepex.xyz](mailto:info@qreepex.xyz)
 
 ## Stats
-[![qreepex's GitHub Stats](https://github-stats.qrpx.link/api/top-langs/?username=qreepex&langs_count=10)](https://github.com/qreepex)
+[![qreepex's GitHub Stats][(https://github-stats.qrpx.link/api/top-langs/?username=qreepex&langs_count=10](https://github-stats.qrpx.link/api/top-langs/?username=qreepex&langs_count=10&exclude_repo=dcdeno-mod,blaubeerbot,QREEPEX-MANAGER-NEW,QREEPEX-SUPPORT,QREEPEX-MANAGER,QREEPEX-ECO,QREEPEX-PARTNER,Proven-PN-Support-Bot-lul,serverblaze-bot,eazyautodelete,nextjs,eazyantigrief,candycraft_bot,MusicVisualizer,tempiii)](https://github.com/qreepex)
 [![qreepex's GitHub Stats](https://github-stats.qrpx.link/api?username=qreepex&count_private=true&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/qreepex)
