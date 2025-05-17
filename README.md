@@ -5,7 +5,7 @@ I'm a full-stack developer from Germany. You can see a collection of some person
 I work a lot on [EazyAutodelete](https://github.com/eazyautodelete) - an Autodelete Bot for Discord. All codes over there are written and maintained by me. 
 
 ## Skills
-[![Skills](https://skillicons.dev/icons?i=ts,nodejs,svelte,go,rust,html,css,sass,js,java,py,express,jquery,tailwind,bootstrap,regex&theme=dark)](https://github.com/qreepex)
+[![Skills](https://skillicons.dev/icons?i=ts,nodejs,svelte,go,rust,html,css,sass,js,express,jquery,tailwind,bootstrap,regex&theme=dark)](https://github.com/qreepex)
 
 ## Tools & Software
 [![Skills](https://skillicons.dev/icons?i=vscode,docker,mongodb,redis,postgres,nginx,cloudflare,discord,github,git,postman,workers,grafana,prometheus&theme=dark)](https://github.com/qreepex)
