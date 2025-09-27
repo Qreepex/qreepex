@@ -2,7 +2,7 @@
 
 I'm a full-stack developer from Germany. You can see a collection of some personal projects here.
 
-I work a lot on [EazyAutodelete](https://github.com/eazyautodelete) - an Autodelete Bot for Discord. All codes over there are written and maintained by me. 
+I work a lot on [EazyAutodelete](https://github.com/eazyautodelete) - an Autodelete Bot for Discord. All code over there is written and maintained by me. 
 
 ## Skills
 [![Skills](https://skillicons.dev/icons?i=ts,nodejs,svelte,go,rust,html,css,sass,js,express,jquery,tailwind,bootstrap,regex&theme=dark)](https://github.com/qreepex)
